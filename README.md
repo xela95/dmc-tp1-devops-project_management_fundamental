@@ -20,5 +20,5 @@ It also documents the criteria used to identify risk situations.
 The system defines how alerts will be displayed.
 
 - Colors
-- Icons 
-- Sounds  
+- Icons
+- Sounds
