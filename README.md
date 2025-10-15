@@ -14,3 +14,11 @@ This does not compromise the performance of the monitoring map.
 
 The system defines distance thresholds for different alert levels.  
 It also documents the criteria used to identify risk situations.
+
+## Visual and Audio Alert Design
+
+The system defines how alerts will be displayed.
+
+- Colors
+- Icons
+- Sounds
