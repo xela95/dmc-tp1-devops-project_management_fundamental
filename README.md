@@ -17,7 +17,8 @@ It also documents the criteria used to identify risk situations.
 
 ## Visual and Audio Alert Design
 
-The system defines how alerts will be displayed.  
-- colors   
-- icons  
+The system defines how alerts will be displayed.
+
+- Colors   
+- Icons  
 - Sounds  
