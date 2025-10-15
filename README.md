@@ -22,3 +22,11 @@ The system defines how alerts will be displayed.
 - Colors
 - Icons
 - Sounds
+
+## Alert History Section
+
+The system defines how alert history information is displayed.
+
+- Date and time of the alert
+- Type of alert
+- Vehicle or system involved
