@@ -30,3 +30,11 @@ The system defines how alert history information is displayed.
 - Date and time of the alert
 - Type of alert
 - Vehicle or system involved
+
+## Search and Export Options
+
+The system allows filtering and exporting alert data efficiently.
+
+- Define main filters such as vehicle, date, or alert type.
+- Support standard export formats including CSV and PDF.
+- Ensure exported data preserves the same structure as shown on screen.
