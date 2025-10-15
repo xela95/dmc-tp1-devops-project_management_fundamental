@@ -6,6 +6,6 @@ Add a visual layout for the proximity monitoring system is being defined.
 
 ## Data Update Frequency and Format
 
-The system defines how often proximity data is refreshed (e.g., every second or every 5 seconds).  
+The system defines how often proximity data is refreshed.  
 This configuration ensures a smooth and responsive update cycle.  
 This does not compromise the performance of the monitoring map.
